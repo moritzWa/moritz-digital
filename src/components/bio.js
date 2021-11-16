@@ -37,19 +37,15 @@ const Bio = () => {
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/profile-pic.png"
-        width={50}
-        height={50}
+        width={130}
+        height={150}
         quality={95}
         alt="Profile picture"
       />
       {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
-        </p>
+        <div>
+          <p>I'm building <a href="https://remnote.com">RemNote.com</a>. I grew up in Germany and previously studied Software Engineering at CODE University of Applied Sciences. I strive to accelerate scientific and technological progress by building a new evolution of tools and systems for knowledge creation. Find me on <a href="https://github.com/pc">GitHub</a>, <a href="https://twitter.com/moritzW42">Twitter</a>, <a href="https://linkedin.com/in/moritzw">LinkedIn</a>, <a href="https://www.producthunt.com/@moritzwallawitsch">Product Hunt</a>, or <a href="https://goodreads.com/moritzw">Goodreads</a>.</p>
+        </div>
       )}
     </div>
   )
