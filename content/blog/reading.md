@@ -8,7 +8,6 @@ Effective reading is one of the fastest ways to learn and increase your informat
 After giving an overview of the science of reading, I will describe a relatively new type of reading, Reading While Listening, and compare tools that you can use to augment your reading.
 
 # The Science of Reading
-
 ## Models
 
 There are two main scientific models of reading. The simple one is the [Simple view of Reading (SVoR)](https://en.wikipedia.org/wiki/Simple_view_of_reading), and was proposed by researchers Gough and Tunmer in 1986. It defines reading comprehension as the product of decoding and linguistic comprehension. It is useful to categorize the most frequent reading disabilities:
@@ -76,35 +75,21 @@ Now that I explained the science of reading and its micro-augmentation let's loo
 **Leveraging Curiosity**: A friend of mine [Adithya Blaji](link_generated_on_download) once told me about his curiosity driving reading strategy rule, which is "read now or disregard". My current system is that I separate reading from searching reading material. I like to batch process them because they use different cognitive processes (information search vs. consumption). I also like Adithya's policy, though, and it seems there is a tradeoff between the use of curiosity and efficiency. If you have a different approach or advice on this, I'd be curious to hear it! (I plan to dive into the topic of curiosity and write about it here in the future).
 
 # Best Reading while listening Application
-
-## Amazon Wispersync 
+### Amazon Wispersync 
 
 Wispersync is the best RWL option for books. It's handy if you mainly listen to the audiobook but want to make highlights. You'll always be at the correct position. My current alternative workflow is that I have the corresponding book in iBooks and search the section to do highlights which is slower. There is not much information about it, but I found this [article explaining the market of Wispersync](https://goodbetterbest.substack.com/p/amazons-whispersync-for-voice). 
 
-## Natural Reader (best for PDFs)
-
+### Natural Reader (best for PDFs)
 The natural reader is the best option for PDFs and has a fast loading speed. It also auto has some logic to disregard stuff in parentheses, i.e., academic references like (author_x at al. year_y), which improves the listening experience.
 
 The three cons are that there is no mobile app, bookmarking feature, and you can click on the text to navigate what to read, which interferes with text highlighting.
-
-## Speechify
-
+### Speechify
 Speechify has a web and mobile app. It also has some very high-fidelity voices (I think from Google WaveNet).
-
-## Matter
-
+### Matter
 Matter is the best reading app that supports RWL I found and has some good social features to follow certain writers.
-
-## RemNote PDF annotation
-
+### RemNote PDF annotation
 As a quick plug for the product I'm building, RemNote has the best PDF annotation, as you can effortlessly reference specific quotes in your notes and convert them into flashcards.
-
-
 # Conclusion
-
 Choose what you read wisely, use your curiosity as a driver,  and augment your reading with technology.
 
-If you're interested in improving reading and learning technology 
-join us to build the next version of the RemNote PDF-Annotation tool and much more.
-
-If you have been thinking about too or have suggestions, I'd love to hear from you. Also let's [connect on GoodReads](https://goodreads.com/moritzw). 
+If you're interested in improving reading and learning technology join us to build the next version of the RemNote PDF-Annotation tool and much more. If you have been thinking about too or have suggestions, I'd love to hear from you. Also let's [connect on GoodReads](https://goodreads.com/moritzw). 
