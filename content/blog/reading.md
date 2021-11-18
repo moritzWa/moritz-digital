@@ -3,103 +3,93 @@ title: Reading, its augmentation, and Reading while listening (RWL)
 date: "2021-11-18"
 ---
 
-- 
-
-alternative title: Listening is often the superior reading
-
-
-
-# Introduction
-
-Effective reading is one of the fastest ways to learn and increase your information input, which in turn enables you to understand and solve more and harder problems.
+Effective reading is one of the fastest ways to learn and increase your information input, enabling you to understand and solve more and more complex problems.
 
 After giving an overview of the science of reading, I will describe a relatively new type of reading, Reading While Listening, and compare tools that you can use to augment your reading.
-
-
 
 # The Science of Reading
 
 ## Models
 
-There are two main scientific models of reading. The simple one is the [Simple view of Reading (SVoR)](link_generated_on_download), and was proposed by researchers Gough and Tunmer in 1986. It defines reading comprehension as the product of decoding and linguistic comprehension. It is useful to categorize the most frequent reading disabilities:
+There are two main scientific models of reading. The simple one is the [Simple view of Reading (SVoR)](https://en.wikipedia.org/wiki/Simple_view_of_reading), and was proposed by researchers Gough and Tunmer in 1986. It defines reading comprehension as the product of decoding and linguistic comprehension. It is useful to categorize the most frequent reading disabilities:
 
-- [ ] image of SVoR model
+![](./Simple_View_of_Reading_quadrant_visualisation.jpeg)
 
-A more refined model, Scarborough's Reading Rope was published in 2001 and breaks down the ability to read into [Language-comprehension (Upper strands)](link_generated_on_download) and [Word-recognition (Lower strands)](link_generated_on_download). 
+A more refined model, Scarborough's Reading Rope was published in 2001 and breaks down the ability to read into Language-comprehension and Word-recognition. 
 
-The active view of reading (AVR) model from May 7, 2021, recognizes that some reading abilities like vocabulary comprehension contribute to recognition and comprehension. It also separates  __Active __ self-regulation which determines the quality of the reading based on factors such as working memory, attentional control, and the skill of planning.  
+[The active view of reading (AVR)](https://doi.org/10.1002%2Frrq.411) model from May 7, 2021, recognizes that some reading abilities like vocabulary comprehension contribute to recognition and comprehension. It also separates active self-regulation, which determines the reading quality based on factors such as working memory, attentional control, and the skill of planning.  
 
-- [ ] image of AVR model
+![](./active_view_of_reading.jpg)
 
 # Reading While Listening (RWL)
 
-In a meta study with the title [Audio-visual synchronization in reading while listening to texts: Effects on visual behavior and verbal learning.](link_generated_on_download) from 2017, published in Computer Speech & Language the authors report positive findings: [The first reports of the effect of RWL were very promising, especially for poor readers. In these non-experimental studies, RWL improved comprehension, word recognition, word meaning acquisition (Carbo, 1978), reading fluency (van der Leij, 1981), motivation to read (Carbo, 197 8; Chomsky, 1976; Gamby, 1983), and the “awareness of the end 
-product of learning to read ” (van der Leij, 1981).](link_generated_on_download)  
+In a meta-study with the title [Audio-visual synchronization in reading while listening to texts: Effects on visual behavior and verbal learning.](https://www.sciencedirect.com/science/article/pii/S0885230816300596) from 2017, published in Computer Speech & Language, the authors report positive findings: 
+
+> The first reports of the effect of RWL were very promising, especially for poor readers. In these non-experimental studies, RWL improved comprehension, word recognition, word meaning acquisition (Carbo, 1978), reading fluency (van der Leij, 1981), motivation to read (Carbo, 197 8; Chomsky, 1976; Gamby, 1983), and the "awareness of the end product of learning to read" (van der Leij, 1981).  
 
 The main reasons, the authors in this paper also touch on, for this effect seem to be improved comprehension and reading speed:
 
 ## Improved comprehension
 
-The first factor involved in the improved comprehension is the reduced cognitive load. [Automaticity theory](link_generated_on_download) defines the of the reading process, listed as part of the models above, simultaneous (i.e. as multi-threaded) which all take up cognitive resources and are limited by the reader's working memory. This theory [suggests that making one or two components automatic may allow readers to pay more attention to other tasks in the reading process](link_generated_on_download). 
+The first factor involved in improved comprehension is the reduced cognitive load. [Automaticity theory](https://www.tandfonline.com/doi/abs/10.1080/1057356970130202) defines the reading process, listed as part of the models above, simultaneous (i.e., as multi-threaded), which all take up cognitive resources and are limited by the reader's working memory. This theory suggests that making one or two components automatic may allow readers to pay more attention to other tasks in the reading process.
 
-Similarly, in a different paper with the title  __Simultaneous Listening and Reading in ESL: Helping Second Language Learners Read (andEnjoy Reading) More Efficiently __ the author conjecture that RWL-readers [benefited from a lighter cognitive load. With additional cognitive resources available for comprehension, these students achieved higher quiz scores. In other words, their improved reading fluency facilitated their reading comprehension.](link_generated_on_download)  
+Similarly, in a [different paper](http://slureading.pbworks.com/f/reading+aloud.pdf), the author conjectures that RWL-readers
+> benefited from a lighter cognitive load. With additional cognitive resources available for comprehension, these students achieved higher quiz scores. In other words, their improved reading fluency facilitated their reading comprehension.
 
-The second, closely related factor is the multimodal information intake. For a closer look at the neuroscience of reading, I recommend this presentation (TODO add link) by [Stanislas Dehaene](link_generated_on_download), author of Reading in the Brain. Herein he also shows that information intake of visual reading or listening uses different paths but is both processed in the same brain region responsible for higher-level understanding. 
+The second, closely related factor is the multimodal information intake. For a closer look at the neuroscience of reading, I recommend [this presentation by Stanislas Dehaene](https://youtu.be/25GI3-kiLdo?t=498), author of Reading in the Brain. Herein he also shows that information intake of visual reading or listening uses different paths but is both processed in the same brain region responsible for higher-level understanding.
 
-Thus we can conjecture that the gain in comprehension is achieved through  __multimodal-__ input of the same information. Research in fundamental cognitive psychology has shown that such an audio 
-visual redundancy favors further recall of words (e.g., Bird & Williams, 2002; Lewandowski & Kobus, 1993) compared to unimodal.
+Thus we can conjecture that the gain in comprehension is achieved through  _multimodal_-input of the same information.  
+> Research in fundamental cognitive psychology has shown that such an audio-visual redundancy favors further recall of words (e.g., Bird & Williams, 2002; [Lewandowski & Kobus, 1993](https://www.tandfonline.com/doi/abs/10.1207/s15327043hup0603_3)) compared to unimodal (i.e., either oral or visual) presentations. 
 
 ## Improved reading speed
 
-The increased reading speed is achieved by reducing regressive saccades (eye movement). These unintended reflexive eye movement are driven by our brain trying to achieve 100% prediction accuracy and understanding. In some cases this is useful to "re encode" it or further process the content but often it is redundant since the meaning of a viewed word will often be reveal by reading the following text and context. He also identifies other effects such as unconscious back-skipping, visual wanderings and conscious regressions.
+The increased reading speed is achieved by reducing regressive saccades (eye movement). These unintended reflexive eye movements are driven by our brain trying to achieve 100% prediction accuracy and understanding. In some cases, this is useful to "re-encode" it or further process the content, but often it is redundant since the meaning of a viewed word will often be revealed by reading the following text and context. He also identifies other effects such as unconscious back-skipping, visual wanderings, and conscious regressions.
 
-I first read about these a few years back in the context of speed reading. Here the author recommended using a metronome, reading each line in the rate of the metronome guiding the eyes using a stick and gradually increasing the metronome rate. 
+I first read about these a few years back in the context of speed reading. Here the author recommended using a metronome, reading each line at the metronome rate, guiding the eyes using a stick, and gradually increasing the metronome rate.
 
-- [ ] screenshots of speed reading book
+![](./speedreading_stick.png)
 
-The RWL software has a similar effect; the reduction of regressive saccades by guiding your eyes to continue reading. The currently available software which I list below, however, has still a lot of improvement potential. 
+The RWL software has a similar effect: reducing regressive saccades by guiding your eyes to continue reading. However, the currently available software, which I list below, still has a lot of improvement potential. 
 
-After going back to the speed-reading literature I also noticed potential improvements of the current-position/word highlighting of the RWL software. One improvement would be to help the user to reduce the number of fixations by chunking words together based on the readers ability.
+After going back to the speed-reading literature, I also noticed potential improvements in the current-position/word highlighting of the RWL software. One improvement would be to help the user reduce the number of fixations by chunking words together based on the reader's ability.
 
-- [ ] screenshot of speed reading chunking
+![](./speedreading_chunking.png)
 
-The only downside of using these RWL applications I experienced was that they can reduce your ability to read fast when you don't use them. 
-
-
+The only downside of using these RWL applications I experienced was that they could reduce your ability to read fast when you don't use them. We might observe a similar effect when trying to study without nootropics after excessive use of them.
 
 # Improving your Reading process
 
-Now that I explained the science of reading and its micro-augmentation let's look at few higher level tidbits that will help your optimise your entire reading process. This is not a comprehensive list and more so a list of pointers to explore.
+Now that I explained the science of reading and its micro-augmentation let's look at a few higher-level tidbits that will help optimize your entire reading process. This is not a comprehensive list and more so a list of pointers to explore.
 
-**Characteristics of a skilled reader**: In her book [Effective Note Taking](link_generated_on_download), [Fiona McPherson](link_generated_on_download) describes that 1) skilled readers read the topic introducing and difficult to relate to main topic sentences slower and that 2) they [recall more superordinate than subordinate items](link_generated_on_download) (i.e. they think about how a given argument or concept fits into the greater whole). 
+**Characteristics of a skilled reader**: In her book [Effective Note Taking](https://www.amazon.com/Effective-Notetaking-Study-Skills-McPherson/dp/1927166527), Fiona McPherson describes that 
+1) skilled readers read the topic introducing and difficult to relate to main topic sentences slower and that 
+2) they recall more superordinate than subordinate items (i.e., they think about how a given argument or concept fits into the greater whole). 
 
-**Preparation and selection: **The article on** **How to choose what to read describes that we should be asking ourselves “Is this a book in 260,000?”. Naval Ravikant and others (http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/) have also talked about having a strong filter and disregarding books fast after one looses interest.
+**Preparation and selection**: This [article on how to choose what to read](https://vasilishynkarenka.com/how-to-choose-what-to-read/) describes that we should be asking ourselves "Is this a book in 260,000?". [Naval Ravikant](https://alexandbooks.com/archive/16-reading-tips-from-naval-ravikant) and [others](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/) have also talked about having a strong filter and disregarding books fast after one loses interest.
 
-**Training micro skills**: One lesson we can draw from the above discussed models is that reading is a complex skill combined of many parts that can be trained individually. You can, for example, improve the bridging process skill of vocabulary knowledge when you add new words that you come across and learn about to your spaced repetition system.
+**Training micro-skills**: One lesson we can draw from the above-discussed models is that reading is a complex skill constituted of many parts that one can train individually. You can, for example, improve the bridging process skill of vocabulary knowledge when you add new words that you come across and learn about to your spaced repetition system.
 
-**Reading research papers in unfamiliar field**: I recommend this article (http://augmentingcognition.com/) by [Michael Nielsen](link_generated_on_download) on how to improve this exploratory reading and internalization process.
+**Reading research papers in unfamiliar field**: Michael Nielsen describes how to [improve the exploratory reading and internalization process](http://augmentingcognition.com/).
 
-**Decide on reading type and depth**: This article might be useful to prepare a reading session and think about the tradeoffs of your time investments (http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/). The book on reading by Mortimer J. Adler also touches on the 4 levels of reading (i.e. Elementary Reading, Analytical, and Syntopical). For a shorter overview I reccomend the essay titled "How to Read a Book" by Paul Edwards (https://pne.people.si.umich.edu/PDF/howtoread.pdf), academic historian and CISAC fellow at Stanford. 
+**Decide on reading type and depth**: This article [Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/) might be helpful to think about your time investments after you decide on your material. The classical [book on reading by Mortimer J. Adler](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095) also touches on the four levels of reading (i.e., Elementary Reading, Analytical, and Syntopical). For a shorter overview, I recommend the essay [How to Read a Book](https://pne.people.si.umich.edu/PDF/howtoread.pdf) by Paul Edwards, academic historian and CISAC fellow at Stanford. 
 
-**Leveraging Curiosity**: A friend of mine [Adithya Blaji](link_generated_on_download) once told me about his very curiosity driving reading strategy rule which is "reading now or disregard". My current system is that I separate reading from searching reading material because I feel they are different task/use different cognitive processes (information search vs. consumption)q which is why I like to batch process them. I also like Adithya's policy though and it seems there is a tradeoff between curiosity and efficiency. If you have any good policy or advice on this I'd be curious to hear it! (I plan to dive into the topic of curiosity and write about it here in the future).
-
-
+**Leveraging Curiosity**: A friend of mine [Adithya Blaji](link_generated_on_download) once told me about his curiosity driving reading strategy rule, which is "read now or disregard". My current system is that I separate reading from searching reading material. I like to batch process them because they use different cognitive processes (information search vs. consumption). I also like Adithya's policy, though, and it seems there is a tradeoff between the use of curiosity and efficiency. If you have a different approach or advice on this, I'd be curious to hear it! (I plan to dive into the topic of curiosity and write about it here in the future).
 
 # Best Reading while listening Application
 
 ## Amazon Wispersync 
 
-Wispersync the best option for RWL for books.
+Wispersync is the best RWL option for books. It's handy if you mainly listen to the audiobook but want to make highlights. You'll always be at the correct position. My current alternative workflow is that I have the corresponding book in iBooks and search the section to do highlights which is slower. There is not much information about it, but I found this [article explaining the market of Wispersync](https://goodbetterbest.substack.com/p/amazons-whispersync-for-voice). 
 
 ## Natural Reader (best for PDFs)
 
-Natural reader is the best option for PDFs and has a fast loading speed. It also auto has some logic to disregards stuff in parentheses, i.e. academic references like (author_x at al. year_y), which improves the listening experience.
+The natural reader is the best option for PDFs and has a fast loading speed. It also auto has some logic to disregard stuff in parentheses, i.e., academic references like (author_x at al. year_y), which improves the listening experience.
 
-The three cons are that there is no mobile app, bookmarking feature, and you can click on text to navigate what to read which interferes with text highlighting.
+The three cons are that there is no mobile app, bookmarking feature, and you can click on the text to navigate what to read, which interferes with text highlighting.
 
 ## Speechify
 
-Speechify has a web and mobile app. It also has some very high fidelity voices (I think from Google WaveNet).
+Speechify has a web and mobile app. It also has some very high-fidelity voices (I think from Google WaveNet).
 
 ## Matter
 
@@ -107,14 +97,14 @@ Matter is the best reading app that supports RWL I found and has some good socia
 
 ## RemNote PDF annotation
 
-As a quick plug for the product I'm building, RemNote has the best PDF annotation as you can effortlessly reference specific quotes in your notes and contvert them into flashcards.
+As a quick plug for the product I'm building, RemNote has the best PDF annotation, as you can effortlessly reference specific quotes in your notes and convert them into flashcards.
 
 
 # Conclusion
 
-Choose what you read wisely, using your curiosity as a driver,  and augment your reading with technology.
+Choose what you read wisely, use your curiosity as a driver,  and augment your reading with technology.
 
 If you're interested in improving reading and learning technology 
 join us to build the next version of the RemNote PDF-Annotation tool and much more.
 
-Connect with me on Goodreads and discuss this on Twitter (link)
+If you have been thinking about too or have suggestions, I'd love to hear from you. Also let's [connect on GoodReads](https://goodreads.com/moritzw). 
