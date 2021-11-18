@@ -60,13 +60,13 @@ We will look at cloud architectures that describe the combination of cognitive m
 
 ## Personal Knowledge Management
 
-[Personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM) is one way to augment cognition. By helping us manage and externalize our knowledge, these systems enable us to work with a more extensive knowledge base. The most comprehensive description and analysis of PKMs and related concepts I've found was the article [Still Building the Memex](https://cacm.acm.org/magazines/2011/2/104378-still-building-the-memex/fulltext) by [Stephen Davies](http://stephendavies.org/), professor in the Computer Science department at the University of Mary Washington.
+[Personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM) is one way to augment cognition, namely by helping someone extend their memory. By helping us manage and externalize our knowledge, these systems enable us to work with a more extensive knowledge base. The most comprehensive description and analysis of PKMs and related concepts I've found was the article [Still Building the Memex](https://cacm.acm.org/magazines/2011/2/104378-still-building-the-memex/fulltext) by [Stephen Davies](http://stephendavies.org/), professor in the Computer Science department at the University of Mary Washington.
 
 PKM systems are often called _Second Brains_. Still, most of them act more as a storage medium and replica of its user's actual body of knowledge. At [RemNote](https://www.remnote.io/), we try not just to help you create a copy of your knowledge but an extension and augmentation of your brain.
 
 # New types of augmenting devices and interfaces
 
-## Cognitive Technology, GANs, and GTP-3
+## Cognitive Technology, GANs, and GPT-3
 
 In 2016, Michael Nielsen, in his essay [Thought as a Technology](http://cognitivemedium.com/tat/), described the term cognitive technology as an external artifact designed by humans, which can be internalized and used as a substrate for cognition. These are representations invented by other people, such as words, graphs, maps, algebra, mathematical diagrams, etc. He further differentiated between Models of Augmentation as Cognitive Transformation (e.g., a spreadsheet) or Cognitive Outsourcing (e.g., a calculator).
 
@@ -78,9 +78,9 @@ How this process can look like is demonstrated in a [video by the AI researcher 
 
 ![iGAN demontsration](https://s4.gifyu.com/images/gan.gif)
 
-Another fascinating technology in this category is GTP-3, _an autoregressive language model that uses deep learning to produce human-like text_. We saw commercially successful use of this model in copywriting (ex. copysmith.ai) and code completion (ex. [GitHub Copilot](https://copilot.github.com/)). But besides software code, there has been little commercialization of text completion. Thus, I hope somebody builts a ubiquitous text completions browser extension (pls. lmk if you do). 
+Another fascinating technology in this category is GPT-3, _an autoregressive language model that uses deep learning to produce human-like text_. We saw commercially successful use of this model in copywriting (ex. copysmith.ai) and code completion (ex. [GitHub Copilot](https://copilot.github.com/)). But besides software code, there has been little commercialization of text completion. Thus, I hope somebody builts a ubiquitous text completions browser extension (pls. lmk if you do). 
 
-GTP-3 can not only be used to outsource cognitive tasks, but it can generate entirely new ideas. David Dohan, Research Engineer at Google Brain, demonstrates the power of using this model for idea generation in a [recent Athens community talk](https://youtu.be/Oxbv9EnhSuk?t=534). 
+GPT-3 can not only be used to outsource cognitive tasks, but it can generate entirely new ideas. David Dohan, Research Engineer at Google Brain, demonstrates the power of using this model for idea generation in a [recent Athens community talk](https://youtu.be/Oxbv9EnhSuk?t=534). 
 
 Although the descriptions of the two terms, provided by Nielsen and Carter, still come with less clearly defined terms of "deep principles," "in a meaningful way," and "human thought," they help us draw a further categorization. For our purpose here and using our terminology, I'll summarize them as the distinction between CAS and CAAI, Cognitive Augmentation AI.
 
