@@ -12,6 +12,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-twitter`,
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
     {

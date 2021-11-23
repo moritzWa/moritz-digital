@@ -23,10 +23,11 @@ When sharing your knowledge base with a close collaborator, you want to make sur
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Generating topics is one way to build a personal wiki. Could also ask questions to your wiki with <a href="https://twitter.com/HebbiaAI?ref_src=twsrc%5Etfw">@HebbiaAI</a> <br><br>Sharing knowledge graphs is the dream. Difficulty is permissions and public/private boundaries <a href="https://t.co/4Spx4t7Xan">https://t.co/4Spx4t7Xan</a></p>&mdash; Athens 🏛 is hiring Clojure(Script) Devs (@AthensResearch) <a href="https://twitter.com/AthensResearch/status/1348486878983458817?ref_src=twsrc%5Etfw">January 11, 2021</a></blockquote>
 
-RemNote already integrates a privacy feature, although its **shared knowledge base ** feature is still in private beta.
+RemNote already integrates a privacy feature, although its **shared knowledge base** feature is still in private beta.
 
-![](https://remnote-user-data.s3.amazonaws.com/SQxlxzXa_dB36uovos9Hi6YfSK8FOwixUkCYByEkpEOtUkcKd_i69dSI0D2_-F5swogsqzE5b3b8oQ928Dpd-t4IrwFHjjPpD6mzsLNeBp5psUcEmGSjMIwIyuhSjZXh.png)
-![](https://remnote-user-data.s3.amazonaws.com/QqWUF8QFyUQrhYTxTBg5FgesDf1ZYWmuLoRqMzx6nQRD1ht3-IoB-t0E-EoDGDvJZ_CiHdUgVLfIT6nxmSWHzmzoGw5BEVh3cuIeP5z661q3-PqFfVooFtTt2M6VbOTY.png)
+![](./private_screenshot_2.png)
+
+![](./private_screenshot_1.png)
 
 ## Irrelevant sharing and cluttering
 
@@ -40,7 +41,7 @@ The complexity of differentiating those attributes of a graph's nodes increases 
 
 The second problem lies in merging the entities of the graph. For example, two physics researchers sharing their knowledge bases to collaborate on a paper might both have a note about, say, [Fourier transformation](https://en.wikipedia.org/wiki/Fourier_transform), and they are close to identical. To reduce the complexity of this collaboration, we now want to merge these two note-entities.
 
-This problem is well known by tech, like Amazon and Google. Their technologies are built on knowledge graphs and are actively working on improving those systems. "Entity alignment is the key step towards knowledge graph integration from multiple sources," as researchers by Amazon noted in a [paper published in 2020.](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
+This problem is well known by tech, like Amazon and Google. Their technologies are built on knowledge graphs and are actively working on improving those systems. "Entity alignment is the key step towards knowledge graph integration from multiple sources," as researchers by Amazon noted in a [paper published in 2020](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately).
 RemNote Concept descriptor framework allows for a much easier graph integration. It's an optional feature and framework that suggests writing your notes in a semantic structure separating concepts (entities) and descriptors (attributes). Those can be detected, compared, and merged because they represent the same concept and follow a specific structure.
 
 ## Read and write access

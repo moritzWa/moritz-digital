@@ -3,6 +3,8 @@ title: "Dataism is eating the world: information flow at all costs"
 date: "2021-06-17"
 draft: false
 path: "/blog/dataism"
+description: "A new philosophy is spreading. Unlike Capitalism, Humanism, or Communism, dataism values information flow over everything else."
+
 ---
 
 ## Introduction
@@ -52,7 +54,8 @@ We already know that many religions share a common ground. Moreover, as we will 
 
 For example, in his book [Cognitive Surplus](link_generated_on_download), Clay Shurky describes the _massive waste_ of cognitive resources (i.e., processing power). In the first chapter, Shurky illustrates this by comparing the two hundred billion hours Americans spend watching TV every year to the two thousand Wikipedias that they could have created with this surplus, i.e., creating a societal value and furthering information flow.
 
-Those values might be why we got [140 characters and not the flying cars](https://som.yale.edu/blog/peter-thiel-at-yale-we-wanted-flying-cars-instead-we-got-140-characters) that we were promised. In their debate at the Milken Institute Conference in 2013, Mark Andreessen and Peter Thiel list many reasons why this is the case. Andreessen makes the point that we got instant global publishing and that "The whole basis of our civilization [...] is communication. Without communication, we would all be sitting in caves by ourselves."
+Those values might be why we got [140 characters and not the flying cars](https://som.yale.edu/blog/peter-thiel-at-yale-we-wanted-flying-cars-instead-we-got-140-characters) that we were promised. In their debate at the Milken Institute Conference in 2013, Mark Andreessen and Peter Thiel list many reasons why this is the case. Andreessen makes the point that we got instant global publishing and that
+> The whole basis of our civilization [...] is communication. Without communication, we would all be sitting in caves by ourselves.
 
 ## Summary
 
