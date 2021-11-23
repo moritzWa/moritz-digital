@@ -18,9 +18,9 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
+          # social {
+          #   twitter
+          # }
         }
       }
     }
@@ -28,10 +28,10 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
+  //const social = data.site.siteMetadata?.social
 
   return (
-    <div className="bio sm:flex-column">
+    <div className="bio">
       <StaticImage
         className="bio-avatar"
         layout="fixed"

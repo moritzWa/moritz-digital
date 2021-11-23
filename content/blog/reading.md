@@ -74,7 +74,7 @@ Now that I explained the science of reading and its micro-augmentation let's loo
 
 **Decide on reading type and depth**: This article [Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/) might be helpful to think about your time investments after you decide on your material. The classical [book on reading by Mortimer J. Adler](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095) also touches on the four levels of reading (i.e., Elementary Reading, Analytical, and Syntopical). For a shorter overview, I recommend the essay [How to Read a Book](https://pne.people.si.umich.edu/PDF/howtoread.pdf) by Paul Edwards, academic historian and CISAC fellow at Stanford. 
 
-**Leveraging Curiosity**: A friend of mine [Adithya Blaji](https://www.adithyabalaji.com/) once told me about his curiosity driving reading strategy rule, which is "read now or disregard". My current system is that I separate reading from searching reading material. I like to batch process them because they use different cognitive processes (information search vs. consumption). I also like Adithya's policy, though, and it seems there is a tradeoff between the use of curiosity and efficiency. If you have a different approach or advice on this, I'd be curious to hear it! (I plan to dive into the topic of curiosity and write about it here in the future).
+**Leveraging Curiosity**: A friend of mine [Adithya Balaji](https://www.adithyabalaji.com/) (he also wrote a [nice article on audio reading](https://www.adithyabalaji.com/productivity/2021/11/20/Apple-Spoken-Content.html)) once told me about his curiosity driving reading strategy rule, which is "read now or disregard". My current system is that I separate reading from searching reading material. I like to batch process them because they use different cognitive processes (information search vs. consumption). I also like Adithya's policy, though, and it seems there is a tradeoff between the use of curiosity and efficiency. If you have a different approach or advice on this, I'd be curious to hear it! (I plan to dive into the topic of curiosity and write about it here in the future).
 
 # Best Reading while listening Application
 ### Amazon Wispersync 
@@ -89,8 +89,8 @@ The three cons are that there is no mobile app, bookmarking feature, and you can
 Speechify has a web and mobile app. It also has some very high-fidelity voices (I think from Google WaveNet).
 ### Matter
 Matter is the best reading app that supports RWL I found and has some good social features to follow certain writers.
-### RemNote PDF annotation
-As a quick plug for the product I'm building, RemNote has the best PDF annotation, as you can effortlessly reference specific quotes in your notes and convert them into flashcards.
+<!-- ### RemNote PDF annotation
+As a quick plug for the product I'm building, RemNote has the best PDF annotation, as you can effortlessly reference specific quotes in your notes and convert them into flashcards. -->
 # Conclusion
 Choose what you read wisely, use your curiosity as a driver,  and augment your reading with technology.
 

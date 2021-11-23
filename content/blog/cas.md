@@ -2,7 +2,6 @@
 title: "The Science of Tools for Thought and Cognition Augmentation Software"
 date: "2021-11-18"
 draft: false
-path: "/blog/cas"
 description: "Humans started using tools millions of years ago. Tools for Thought thousands of years ago, and only decades ago, developed Cognitive Augmentation Software."
 
 ---

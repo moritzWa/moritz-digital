@@ -168,12 +168,18 @@ p {
 
 ul,
 ol {
-  margin-left: var(--spacing-0);
+  margin-left: var(--spacing-5);
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
   list-style-position: outside;
   list-style-image: none;
+}
+
+@media (max-width: 630px) {
+  ol, ul {
+    margin-left: 0px;
+  }
 }
 
 ul li,
@@ -197,7 +203,7 @@ li > ul {
 
 blockquote {
   color: var(--color-text-light);
-  margin-left: calc(-1 * var(--spacing-6));
+  margin-left: var(--spacing-1);
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
   border-left: var(--spacing-1) solid var(--color-primary);
@@ -246,7 +252,7 @@ a:focus {
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
-  margin-bottom: var(--spacing-20);
+  margin-bottom: var(--spacing-16);
 }
 
 .global-header {
@@ -288,6 +294,15 @@ a:focus {
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
+}
+
+@media(max-width: 600px) {
+  .bio {
+    flex-direction: column;
+  }
+  .bio p {
+    margin-top: var(--spacing-4);
+  }
 }
 
 .bio p {
