@@ -1,8 +1,8 @@
 ---
-title: "If Medium Would be More Like Wikipedia: Decentralized Autonomous Organizations in Open-Source"
+title: "Decentralized Autonomous Content Platforms"
 date: "2020-07-15"
 draft: false
-path: "/blog/decentralized-autonomous-organizations-in-open-source"
+description: "The value which a company and its contributors capture varies widely by its organizational form and determines its proliferation."
 ---
 
 # 1 Introduction
