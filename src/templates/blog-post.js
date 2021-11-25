@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const seoImage = post.frontmatter.image.childImageSharp.fluid.src
+  const seoImage = post.frontmatter.image?.childImageSharp.fluid.src
 
   const { previous, next } = data
 
