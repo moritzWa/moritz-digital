@@ -3,7 +3,7 @@ title: "The Graph Collaboration Puzzle"
 date: "2021-06-07"
 draft: false
 description: "Collaborative non-linear note-taking will allow a new evolution of augmented collective intelligence, but there are substantial design challenges to overcome."
-
+image: graph_collaboration.jpg
 ---
 
 # Tool adoption and value creation

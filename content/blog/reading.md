@@ -2,7 +2,7 @@
 title: Reading, its augmentation, and Reading while listening (RWL)
 date: "2021-11-18"
 description: "The science of reading shows that Reading While Listening, also called immersive reading, is an underrated and unexplored reading augmentation."
-
+image: reading_augmentaiton_banner.png.png
 ---
 
 Effective reading is one of the fastest ways to learn and increase your information input, enabling you to understand and solve more and more complex problems.
