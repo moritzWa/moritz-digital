@@ -5,7 +5,7 @@ module.exports = {
       name: `Moritz Wallawitsch`,
       summary: `Building RemNote.com`,
     },
-    description: `Co-founder of RemNote.com, entrepreneur, software engineer, designer, product manager, interested in cognition augmentation software and human progress`,
+    description: `Co-founder of RemNote.com, entrepreneur, software engineer, designer, product manager, interested in cognition augmentation software and human progress.`,
     siteUrl: `https://moritz.digital`,
     social: {
       twitter: `MoritzW42`,
