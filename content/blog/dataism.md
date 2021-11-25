@@ -4,7 +4,7 @@ date: "2021-06-17"
 draft: false
 path: "/blog/dataism"
 description: "A new philosophy is spreading. Unlike Capitalism, Humanism, or Communism, dataism values information flow over everything else."
-
+image: cas_map.png
 ---
 
 ## Introduction

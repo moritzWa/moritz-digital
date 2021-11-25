@@ -3,6 +3,7 @@ title: "Decentralized Autonomous Content Platforms"
 date: "2020-07-15"
 draft: false
 description: "The value which a company and its contributors capture varies widely by its organizational form and determines its proliferation."
+image: steem.png
 ---
 
 # 1 Introduction
@@ -38,6 +39,8 @@ This is done with command-and-control hierarchy, making search and information d
 With new technologies like the Ethereum-based protocols of companies like Colony for creating and operating internet organizations, rules are defined in code and enforced by a blockchain mining process. This automation and trust-creation enable entirely new and previously impossible organizational forms to come into being.
 
 Before we continue to examine those technologies lets look at other types of organizations and why open-source software projects are formed.
+
+![](./medium.png)
 
 #### 2.1.1 open-source software
 
@@ -75,6 +78,8 @@ This system also enables, that everyone has ownership of their published content
 
 In the next section, we will look at some software applications that can act as tools to build and manage such kind of systems.
 
+![](./steem.png)
+
 ### 2.3 DApp Management Tools
 
 Here we look at two existing tools allow the easy creation, management, and governance of a community:
@@ -94,6 +99,8 @@ They also offer two open-source tools. Purser: "a collection of modules that si
 #### 2.3.2 Aragon
 
 Aragon offers similar services as the previously described Colony.[^13]
+
+![](./aragon.png)
 
 Here is a simplified example of a Solidity Script which is from a tutorial of Aragon's documentation called “3 steps to Governance” to manage the basic functionality of a DApp i.e. DAO consisting of Permissions, Forward and an Execution Script[^15]:
 
@@ -323,6 +330,8 @@ Another important point to accelerate the creating of new DApps and DAOs is the 
 An influential part for the user experience is the sign-up experience i.e. the first interaction with a platform. At the point of writing, one has to wait several days to get an account on _Steemit.com_.
 
 Most of these platforms also require the usage of a private address that in most cases is a 20 character long alphanumeric string. This poses another problem of securing storing that address.
+
+![](./passord.png)
 
 Secondly creating a DApp or DAO presupposes significant programming skills in a specific programming language, Solidity, C++, Haskell, and others.[^25] Thus, it is not available for non-engineers.
 
