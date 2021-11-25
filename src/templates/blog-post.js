@@ -8,6 +8,8 @@ import Seo from "../components/seo"
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const seoImage = post.frontmatter.image.childImageSharp.fluid.src
+
   const { previous, next } = data
 
   return (
@@ -15,6 +17,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={seoImage}
       />
       <article
         className="blog-post"
@@ -75,6 +78,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        
       }
     }
     markdownRemark(id: { eq: $id }) {
@@ -85,6 +89,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
