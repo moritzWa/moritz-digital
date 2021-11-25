@@ -5,11 +5,12 @@ module.exports = {
       name: `Moritz Wallawitsch`,
       summary: `Building RemNote.com`,
     },
-    description: `Moritz Wallawitsch`,
+    description: `Co-founder of RemNote.com, entrepreneur, software engineer, designer, product manager, interested in cognition augmentation software and human progress`,
     siteUrl: `https://moritz.digital`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `MoritzW42`,
     },
+    image: `/remnote-iron-man.jpeg`,
   },
   plugins: [
     `gatsby-plugin-twitter`,
