@@ -27,7 +27,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="Moritz Wallawitsch" />
       <Bio />
-      <ol style={{ listStyle: `none` }}>
+      <ol style={{ listStyle: `none`, margin: "0px" }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
