@@ -13,8 +13,9 @@ module.exports = {
     image: `/remnote-iron-man.jpeg`,
   },
   plugins: [
+    `gatsby-remark-numbered-footnotes`,
     `gatsby-plugin-twitter`,
-    'gatsby-plugin-postcss',
+    `gatsby-plugin-postcss`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
