@@ -6,9 +6,9 @@ description: "Humans started using tools millions of years ago. Tools for Though
 image: dataism.jpg
 ---
 
-For millions of years, humans have used tools to augment their evolutionary abilities. A few thousand years ago, we invented writing and thereby enabled the sharing and externalizing of information, ushering in the bronze age. A few decades ago, we created the computer, inaugurating the information age. This new tool drastically expanded our abilities to share, internalize and work with knowledge.
+For millions of years, humans have used tools to augment their evolutionary abilities. A few thousand years ago, we invented writing and thereby enabled the sharing and externalizing of information, ushering in the bronze age. A few decades ago, we created the computer and computer networks, inaugurating the information age. This new tool drastically expanded our abilities to share, internalize and work with knowledge.
 
-Tools that augment our cognitive abilities with the help of computers are still in their infancy and will have a massive influence on the ages to come. This article aims to give an overview of the progress and state of Cognition Augmentation Software. I'll start with trying to create a more precise terminology for it and its adjacent concepts.
+Tools that augment our cognitive abilities aided by computers are still in their infancy and will have a massive influence on the ages to come. This article aims to give an overview of the progress and state of Cognition Augmentation Software. I'll start with creating a more precise terminology for it and its adjacent concepts.
 
 # Tools For Thought Terminology
 
@@ -23,11 +23,15 @@ Thinking and Thoughts are also not clearly defined, which makes the use of this 
 
 ## History
 
-As World War II mercifully drew to a close, Vannevar Bush, President Truman's Director of Scientific Research and initiator of the Manhattan Project, surveyed the post-war landscape. He laid out what he viewed as the most important forthcoming challenges to humankind. In his seminal work from 1945 [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Bush set the stage for the post-WW2 allocation of scientific efforts towards understanding rather than destruction and described his concept of the memex, a hypothetical memory augmentation device. 
+As World War II mercifully drew to a close, Vannevar Bush, President Truman's Director of Scientific Research and initiator of the Manhattan Project, surveyed the post-war landscape. He laid out what he viewed as the most important forthcoming challenges to humankind. In 1945, he published his seminal work [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), which aimed to set the stage for the post-WW2 allocation of scientific efforts towards understanding rather than destruction and described his concept of the memex, a hypothetical memory augmentation device. 
 
-The research of this field goes back to the 1960s and the pioneering work of Douglas C. Engelbart, who was highly influenced by Bush's work. He viewed the process of [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138) as increasing the capability to solve complex problems by information handling and symbol structuring and to gain comprehension. The vision developed by Engelbart, J. C. R. Licklider, Alan Kay, and others had a strong influence on later entrepreneurs like Steve Jobs. It acted as the conceptual foundation for the personal computer.
+The research of this field goes back to the 1960s and the pioneering work of Douglas C. Engelbart, who was highly influenced by Bush's work. He viewed the process of [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138) as increasing the capability to solve complex problems by information handling and symbol structuring to gain comprehension. The vision developed by Engelbart, J. C. R. Licklider, Alan Kay, and others had a [strong influence on later entrepreneurs](https://dl.acm.org/doi/fullHtml/10.1145/2500468.2500481) like Steve Jobs.
 
-The field was finally formed in early 2000 under the name of _Augmented Cognition_ and instituted by the [Augmented Cognition Program](https://en.wikipedia.org/wiki/Augmented_cognition), which was renamed to _Improving Warfighter Information Intake Under Stress Program_ in 2001. The program was separated into four phases:
+In the next decades, HCI made incredible leaps include interface advances such as Smalltalk, HyperCard, or WYSIWYG editors. [A paper from 1998](https://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html) lays out some of the most impactful innovations and their development timelines:
+
+![](./hci_timeline.png)
+
+A formal sub-field was finally formed in early 2000 under the name of _Augmented Cognition_ and instituted by the [Augmented Cognition Program](https://en.wikipedia.org/wiki/Augmented_cognition), which was renamed to _Improving Warfighter Information Intake Under Stress Program_ in 2001. The program was separated into four phases:
 
 1. Measure cognitive state
 2. Manipulate cognitive state
