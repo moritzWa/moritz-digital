@@ -38,15 +38,14 @@ A formal sub-field was finally formed in early 2000 under the name of _Augmented
 3. Exploit human sensory channels
 4. Optimize information allocation
 
-The research field (and it's conference[^1]) today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental model of their function.
+The research field (and it's conference[^1]) today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental (and implicit i.e. uninspectable) model of their function.
 
-Schemas are coded into Long Term Memory by Working memory. If Working memory is overloaded, its schema-building ability is compromised.
+Schemas are coded into long term memory by working memory. If working memory is overloaded, its schema-building ability is compromised.
 
-If we help someone to create new or surface relevant schemas, for example, by showing him a possible visualization of a mathematical operation, we support their schema-building abilities and reduce their Cognitive Load.
-
+If we help someone to create new or surface relevant schemas by, for example, showing them a possible visualization of a mathematical operation, we support their schema-building abilities and reduce their Cognitive Load.
 ## Cognitive State measurement
 
-As we saw in the list of phases of the Augmented Cognition Program, a great deal of research focuses on "Measure cognitive state." Many possible applications of adjusting information presentation to the user's cognitive abilities and background knowledge come to mind. For example, one could auto-control an audiobook's playback speed based on the listener's measured cognitive load (request for startup).
+As we saw in the list of phases of the Augmented Cognition Program, a great deal of research focuses on how to "Measure cognitive state." There are many possible applications of adjusting information presentation to the user's cognitive abilities and background knowledge. For example, one could auto-control an audiobook's playback speed based on the listener's measured cognitive load (request for startup).
 
 ## Distributed Cognition and Social Computing
 
@@ -161,17 +160,15 @@ One can only surmise what the next hundred years will do to internalize and exte
 
 ## Development
 
-In their essay, Michael Nielsen and Andy Matuschak describe the difficulty for developers of Tools For Thought to prevent copy-cats. They give the examples of Adobe, which invested heavily in developing their products and is now copied or disrupted by cloud-based companies like Figma. Considering the economic drivers discussed, one can be optimistic that future CAS (or Cognitive technology using Artificial Intelligence) that leverages proprietary AI and AR technology will have fewer of those difficulties.
+In their essay, Michael Nielsen and Andy Matuschak describe the difficulty for developers of Tools For Thought to prevent copy-cats. They give the examples of Adobe, which invested heavily in developing their products and is now copied or disrupted by cloud-based companies like Figma. Considering the economic drivers discussed, one can be optimistic that future CAS that leverages proprietary AI and AR technology will have fewer of those difficulties.
 
-As mentioned, many innovations we take for granted today originated out of AC research. However, to date, most of the research is intended for and was funded by military and defense agencies ([Drexler et al. 2007](https://link.springer.com/chapter/10.1007/978-3-540-73216-7_48)). This narrow focus might leave open a huge opportunity and an unaddressed consumer market of a growing number of knowledge workers. After all, the technologies developed as part of the research share the same goal of productivity improvements as the [\$102.98](https://www.prnewswire.com/news-releases/productivity-management-software-market-size-worth-102-98-billion-by-2027-grand-view-research-inc-301120852.html) Billion productivity software market.
+As mentioned, many innovations we take for granted today originated out of AC and HCI research. However, to date, most of the research is intended for and was funded by military and defense agencies ([Drexler et al. 2007](https://link.springer.com/chapter/10.1007/978-3-540-73216-7_48)). This narrow focus might leave open a huge opportunity and an unaddressed consumer market of a growing number of knowledge workers. After all, the technologies developed as part of the research share the same goal of productivity improvements as the [\$102.98](https://www.prnewswire.com/news-releases/productivity-management-software-market-size-worth-102-98-billion-by-2027-grand-view-research-inc-301120852.html) Billion productivity software market.
 
 ## RemNote
 
-We can describe [RemNote](https://www.remnote.io/) as CAS. Its integrated Spaced Repetition System (SRS) acts as a memory augmentation exploiting the Ebbinghaus Forgetting Curve. Its referencing features could be described as a Cognitive technology that lets its user reference concepts and construct new ones out of building blocks of other concepts.
+We can describe [RemNote](https://www.remnote.com/) as CAS. Its integrated Spaced Repetition System (SRS) acts as a memory augmentation by exploiting the Ebbinghaus Forgetting Curve. Its referencing feature is a Cognitive Augmentation Software that lets its user reference concepts and construct new ones using other concepts as building blocks. Future features like  Entity recognition or ML driven SRS would be categorized as CAIS. 
 
-Future features like the "Connection-recommendation" would be a Cognitive technology using Artificial Intelligence. It will be driven by an Artificial Intelligence-graph-algorithm that identifies [Structural Holes](https://en.wikipedia.org/wiki/Structural_holes) in the graph of a user's notes.
-
-If you are building or researching Cognition Augmentation Software (CAS), I would be happy to have a chat!
+If you are building or researching CAS or CAIS, I would be happy to have a chat!
 
 Lastly, if you are a talented engineer, designer, or operator interested in working on cutting-edge productivity and learning software; [We are hiring at RemNote](https://www.remnote.com/careers) and would love to hear from you!
 
