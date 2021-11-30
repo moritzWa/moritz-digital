@@ -38,7 +38,7 @@ A formal sub-field was finally formed in early 2000 under the name of _Augmented
 3. Exploit human sensory channels
 4. Optimize information allocation
 
-The research field (and it's conference[^1]) today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental (and implicit i.e. uninspectable) model of their function.
+The research field (and its conference[^1]) today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental (and implicit i.e. uninspectable) model of their function.
 
 Schemas are coded into long term memory by working memory. If working memory is overloaded, its schema-building ability is compromised.
 
@@ -94,7 +94,7 @@ In the before-mentioned seminal essay, Bush describes the personal knowledge man
 
 It, for example, should be able to retrieve and reproduce items many years old. He also describes its sharing features as _"Wholly new forms of encyclopedias will appear, ready-made with a mesh of associative trails running through them, ready to be dropped into the Memex and there amplified. The lawyer has at his touch the associated opinions and decisions of his whole experience, and of the experience of friends and authorities. ..."_
 
-But in all those years, there has not been actual scientific work to engineer a cognition augmenting device as he describes it. However, this changed recently. In June 2019, the two researchers, Mahadev Satyanarayanan and Nigel Davies, published a paper [Augmenting Cognition Through Edge Computing](https://eprints.lancs.ac.uk/id/eprint/132846/1/cogment2019.pdf), describing such a system's possible architecture.
+But in all those years, there has not been actual scientific work to engineer a cognition augmenting device as he describes it. However, this changed recently. In June 2019, the two researchers, Mahadev Satyanarayanan and Nigel Davies published a paper [Augmenting Cognition Through Edge Computing](https://eprints.lancs.ac.uk/id/eprint/132846/1/cogment2019.pdf), describing such a system's possible architecture.
 
 ![](./RECALL_memory_architecture.png)
 
@@ -106,7 +106,7 @@ It might, for example, help users restore context before their next conference o
 
 The more intriguing and already usable product in this realm under development might be [personal.ai](https://www.personal.ai/) (formerly hu.man.ai). Its founder Suman Kanuganti and his colleagues are building a personal ai for memory storage. More precisely, they state that the product will _safekeep the thoughts and memories that define you with your personal AI secured by a blockchain_. A very compelling value proposition, I think. This product is an excellent example of memory augmentation using Artificial Intelligence.
 
-Personal AI's Head of Design, Kristie Kaiser, also [describes the application of Ambient Computing concepts as part of their product](https://medium.com/humanailabs/the-future-of-remembering-article-iii-effortless-recall-ux-for-everyone-2b16b5443a29). Ambient Computing is a user experience that is seamlessly integrated into the flow of the users' life, and that requires no conscious action.They also produced this very [moving teaser video](https://www.youtube.com/watch?v=II5I3nR5kkY)
+Personal AI's Head of Design, Kristie Kaiser, also [describes the application of Ambient Computing concepts as part of their product](https://medium.com/humanailabs/the-future-of-remembering-article-iii-effortless-recall-ux-for-everyone-2b16b5443a29). Ambient Computing is a user experience that is seamlessly integrated into the flow of the users' life, and that requires no conscious action. They also produced this very [moving teaser video](https://www.youtube.com/watch?v=II5I3nR5kkY)
 
 Another example of memory augmentation is RemNote. It's a tool for networked note-taking with a seamlessly integrated [spaced repetition system (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition). Currently, the offered spaced repetition algorithms are deterministic and don't incorporate any AI. Other SRS software products already showed the [successful application of Machine learning](https://www.youtube.com/watch?v=3QOs6D5nkRQ&t=12s) to memory augmentation.
 
@@ -166,7 +166,7 @@ As mentioned, many innovations we take for granted today originated out of AC an
 
 ## RemNote
 
-We can describe [RemNote](https://www.remnote.com/) as CAS. Its integrated Spaced Repetition System (SRS) acts as a memory augmentation by exploiting the Ebbinghaus Forgetting Curve. Its referencing feature is a Cognitive Augmentation Software that lets its user reference concepts and construct new ones using other concepts as building blocks. Future features like  Entity recognition or ML driven SRS would be categorized as CAIS. 
+We can describe [RemNote](https://www.remnote.com/) as CAS. Its integrated Spaced Repetition System (SRS) acts as a memory augmentation by exploiting the Ebbinghaus Forgetting Curve. Its referencing feature is a Cognitive Augmentation Software that lets its user reference concepts and construct new ones using other concepts as building blocks. Future features like  Entity recognition or ML-based SRS would be categorized as CAIS. 
 
 If you are building or researching CAS or CAIS, I would be happy to have a chat!
 
