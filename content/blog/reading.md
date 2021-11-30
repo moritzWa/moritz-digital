@@ -44,9 +44,9 @@ Thus we can conjecture that the gain in comprehension is achieved through  _mult
 
 ## Improved reading speed
 
-The increased reading speed is achieved by reducing regressive saccades (eye movement). These unintended reflexive eye movements are driven by our brain trying to achieve 100% prediction accuracy and understanding. In some cases, this is useful to "re-encode" it or further process the content, but often it is redundant since the meaning of a viewed word will often be revealed by reading the following text and context. He also identifies other effects such as unconscious back-skipping, visual wanderings, and conscious regressions.
+The increased reading speed is achieved by reducing regressive saccades (eye movement). These unintended reflexive eye movements are driven by our brain trying to achieve 100% prediction accuracy and understanding. In some cases, this is useful to "re-encode" the content or further process it, but often it is redundant since the meaning of a viewed word will often come apparent by reading the following text and context. In his book on [Speedreading, Tony Buzan](https://www.amazon.com/Speed-Reading-Third-Tony-Buzan/dp/0452266041) lists other effects such as unconscious back-skipping, visual wanderings, and conscious regressions.
 
-I first read about these a few years back in the context of speed reading. Here the author recommended using a metronome, reading each line at the metronome rate, guiding the eyes using a stick, and gradually increasing the metronome rate.
+Here Buzan also recommended using a metronome, reading each line at the metronome rate, guiding the eyes using a stick, and gradually increasing the metronome rate.
 
 ![](./speedreading_stick.png)
 
