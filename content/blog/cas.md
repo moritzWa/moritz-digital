@@ -30,7 +30,7 @@ The research of this field goes back to the 1960s and the pioneering work of Dou
 In the next decades, HCI made incredible leaps include interface advances such as Smalltalk, HyperCard, or WYSIWYG editors. [A paper from 1998](https://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html) lays out some of the most impactful innovations and their development timelines:
 
 ![](./hci_timeline.png)
-g
+
 A formal sub-field was finally formed in early 2000 under the name of _Augmented Cognition_ and instituted by the [Augmented Cognition Program](https://en.wikipedia.org/wiki/Augmented_cognition), which was renamed to _Improving Warfighter Information Intake Under Stress Program_ in 2001. The program was separated into four phases:
 
 1. Measure cognitive state
