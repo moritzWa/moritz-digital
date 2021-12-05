@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <div>
-          <p>I'm building <a href="https://remnote.com">RemNote.com</a>. I grew up in Germany and previously studied Software Engineering at CODE University of Applied Sciences. I strive to accelerate scientific and technological progress by building a new evolution of tools and systems for knowledge creation. Find me on <a href="https://github.com/moritzWa">GitHub</a>, <a href="https://twitter.com/moritzW42">Twitter</a>, <a href="https://linkedin.com/in/moritzw">LinkedIn</a>, <a href="https://www.producthunt.com/@moritzwallawitsch">Product Hunt</a>, or <a href="https://goodreads.com/moritzw">Goodreads</a>.</p>
+          <p>I'm building <a href="https://remnote.com">RemNote.com</a> (<a href="https://www.generalcatalyst.com/gcamplified/why-general-catalyst-invested-in-remnote/">funded by General Catalyst</a>). I grew up in Germany and previously studied Software Engineering at CODE University of Applied Sciences. I strive to accelerate scientific and technological progress by building a new evolution of tools and systems for knowledge creation. Find me on <a href="https://github.com/moritzWa">GitHub</a>, <a href="https://twitter.com/moritzW42">Twitter</a>, <a href="https://linkedin.com/in/moritzw">LinkedIn</a>, <a href="https://www.producthunt.com/@moritzwallawitsch">Product Hunt</a>, or <a href="https://goodreads.com/moritzw">Goodreads</a>.</p>
         </div>
       )}
     </div>
