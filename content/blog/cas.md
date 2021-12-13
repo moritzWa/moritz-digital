@@ -3,7 +3,7 @@ title: "The Science of Tools for Thought and Cognition Augmentation Software"
 date: "2021-11-18"
 draft: false
 description: "Humans started using tools millions of years ago. Tools for Thought thousands of years ago, and only decades ago, developed Cognitive Augmentation Software."
-image: dataism.jpg
+image: cas_map.png
 ---
 
 For millions of years, humans have used tools to augment their evolutionary abilities. A few thousand years ago, we invented writing and thereby enabled the sharing and externalizing of information, ushering in the bronze age. A few decades ago, we created the computer and computer networks, inaugurating the information age. This new tool drastically expanded our abilities to share, internalize and work with knowledge.
