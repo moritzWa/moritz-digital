@@ -38,7 +38,7 @@ A formal sub-field was finally formed in early 2000 under the name of _Augmented
 3. Exploit human sensory channels
 4. Optimize information allocation
 
-The research field (and its conference[^1]) today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental (and implicit i.e. uninspectable) model of their function.
+The research field today relies heavily on the terminology of [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load). A big focus of the domain is to reduce Cognitive Overload. One way to do this is by developing schemas that act as memory templates. A schema is a cognitive framework or concept that helps organize and interpret information. Schemas can be useful because they allow us to take shortcuts in interpreting the vast amount of information that is available in our environment. For example, a child might learn to classify a bird by noting that it is a creature with a muzzle and two wings. A more tangible example might be learning the mathematical notations of a new field. In the beginning, the symbols are foreign to us, but after a while, we build up a mental (and implicit i.e. uninspectable) model of their function.
 
 Schemas are coded into long term memory by working memory. If working memory is overloaded, its schema-building ability is compromised.
 
@@ -168,9 +168,6 @@ As mentioned, many innovations we take for granted today originated out of AC an
 
 We can describe [RemNote](https://www.remnote.com/) as CAS. Its integrated Spaced Repetition System (SRS) acts as a memory augmentation by exploiting the Ebbinghaus Forgetting Curve. Its referencing feature is a Cognitive Augmentation Software that lets its user reference concepts and construct new ones using other concepts as building blocks. Future features like  Entity recognition or ML-based SRS would be categorized as CAIS. 
 
-If you are building or researching CAS or CAIS, I would be happy to have a chat!
+If you are building or researching CAS or CAIS, I would be happy to have a chat! Lastly, if you are a talented engineer, designer, or operator interested in working on cutting-edge productivity and learning software; [We are hiring at RemNote](https://www.remnote.com/careers) and would love to hear from you! 
 
-Lastly, if you are a talented engineer, designer, or operator interested in working on cutting-edge productivity and learning software; [We are hiring at RemNote](https://www.remnote.com/careers) and would love to hear from you!
-
-[^1]: The main conference of the field is the [Augmented Cognition (AC) Conference](http://2021.hci.international/ac), an affiliated conference of the HCI International Conference, which will arrive at its 15th edition this July. Its last edition of 2018 brought forth two volumes of papers: [Augmented Cognition: Intelligent Technologies](https://link.springer.com/book/10.1007/978-3-319-91470-1) and [Augmented Cognition: Users and Contexts](https://link.springer.com/book/10.1007/978-3-319-91467-1).
-
+Thanks to [Andy Matuschak](https://andymatuschak.org/), [Adam Wiggins](https://adamwiggins.com/), [Linus Lee](https://thesephist.com/), [Paul Bricman](https://paulbricman.com/), [Noah Tren](http://noahtren.com/), and [David Dohan](https://twitter.com/dmdohan) for reading drafts of this and providing useful feedback!
