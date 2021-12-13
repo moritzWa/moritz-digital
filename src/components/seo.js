@@ -72,14 +72,23 @@ const Seo = ({ description, image, siteUrl, lang, meta, title }) => {
         },
         {
           name: `twitter:card`,
-          content: `summary_large_image`,
+          content: `summary`,
         },
         {
           name: `twitter:creator`,
           content: site.siteMetadata?.social?.twitter || ``,
         },
         {
+          name: `twitter:site`,
+          content: site.siteMetadata?.social?.twitter || `@moritzW42`,
+        },
+        {
           name: `twitter:title`,
+          content: title,
+        },
+        
+        {
+          name: `twitter:image:alt`,
           content: title,
         },
         {
