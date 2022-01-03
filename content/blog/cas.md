@@ -84,7 +84,7 @@ GPT-3 can not only be used to outsource cognitive tasks, but it can generate ent
 
 Although the descriptions of the two terms, provided by Nielsen and Carter, still come with less clearly defined terms of "deep principles," "in a meaningful way," and "human thought," they help us draw a further categorization. For our purpose here and using our terminology, I'll summarize them as the distinction between CAS and CAAI, Cognitive Augmentation AI.
 
-It's still early for software tools like those iGANs explored above. Still, we can already see that _Offering predefined elements (shapes, text, symbols) directly exemplifies how a digital tool can augment human intelligence by allowing the user to get into the creative flow faster and minimize unnecessary construction work._, as Molly Mielke phrased it in her thesis [Computers and Creativity](https://www.mollymielke.com/cc).
+It's still early for software tools like those iGANs explored above. Still, we can already see that _Offering predefined elements (shapes, text, symbols) directly exemplifies how a digital tool can augment human intelligence by allowing the user to get into the creative flow faster and minimize unnecessary construction work_, as Molly Mielke phrased it in her thesis [Computers and Creativity](https://www.mollymielke.com/cc).
 
 ## Memory and Knowledge Augmentation
 
