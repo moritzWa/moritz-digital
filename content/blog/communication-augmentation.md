@@ -95,7 +95,7 @@ George Orwell lists characteristic phrases for [operators, or verbal false limbs
 
 Instead of being a single word, such as _break_, _stop_, _spoil_, _mend_, _kill_, a verb becomes a phrase made up of a noun or adjective tacked on to a general-purpose verb such as prove, serve, form, play, render.
 
-**Imprecise nouns **
+**Imprecise nouns**
 
 - youth &lt; juvenile, teenager, child, adolescent
 
