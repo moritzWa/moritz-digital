@@ -1,4 +1,10 @@
-# Clear Written Communication and Writing Augmentation
+---
+title: "Clear Written Communication and Writing Augmentation"
+date: "2022-02-06"
+draft: false
+description: "Most of today's communication is unclear, imprecise, and unscientific but can be augmented by clear writing strategies and parsing augmentation."
+image: debategraph.png
+---
 
 Most of today's communication is unclear, imprecise, and unscientific. While building a remote/async-first startup, difficulties with internal company messaging revealed the importance of clear and precise communication. Consequently, I've studied the root causes of this lack of clarity, exploring ideas from software engineering and masters of the English language. I found that everyone can take a few simple steps to write more clearly, drastically improving their communication efficiency. More specifically, I found conceptual and software tools that can augment the communication process; There are many ways to structure, improve a text which leads to more clarity for the writer and thereby increases the possibility for the reader.
 
