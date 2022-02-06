@@ -148,7 +148,6 @@ Close to none of the current communications and writing are augmenting this pars
 
 ![](./debategraph.png)
 
-
 # Conclusion
 
 Why and how should we communicate more clearly? Clear communication offers extreme productivity gains by encouraging clear thinking and making messages easier to parse. Good communication reduces the inferential distance that doesn’t contain garden path sentences.
