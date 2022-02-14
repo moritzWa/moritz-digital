@@ -91,7 +91,7 @@ const Seo = ({ description, image, siteUrl, lang, meta, title }) => {
         },
         {
           name: `twitter:image`,
-          content: metaImage,
+          content: metaUrl + metaImage,
         },
         {
           name: `twitter:description`,
