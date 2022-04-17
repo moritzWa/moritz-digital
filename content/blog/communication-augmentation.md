@@ -24,7 +24,7 @@ Math is precise, i.e., requires propositional truth (ex. "This sentence is a lie
 
 Language is imprecise but requires low effort. Our brains can make up for the lack of precision in many situations. As receivers, we are fast at correlating and extracting logic from sentences using vast amounts of training data, i.e., the context we have acquired throughout our lives.
 
-The individual building blocks of these mediums also differ in a crucial dimension. Math has a 1:1 relationship from expression to representation, unlike the 1:many relationship that words can have. This allows us to compress much more information into our message, levering these implied relations.
+The individual building blocks of these mediums also differ in a crucial dimension. Math has a 1:1 relationship from expression to representation, unlike the 1:many relationship that words can have. This polymorphic property of language allows us to compress much more information into our message, levering these implied relations.
 
 To communicate clearly, we should emulate the precision used in mathematics and propositional logic, creating unambiguous statements while using our powerful inference model to express a richness of information.
 # Clear writing strategies
@@ -108,7 +108,7 @@ Orwell's fifth rule can help to find ‌this clear middle ground:
 
 # Definitions
 
-As presented in the previous section, the lack of a clear shared definition is a significant source of communication problems. This problem is especially severe when after a long and rigorous debate, it turns out that the communication partners disagreed on an initial definition in the first place. The solution is [Disputing Definitions](https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions). We have two strategies. The first one is to temporarily and explicitly agree on a definition. The second one is to invent a new term for the specific concept.
+As presented in the previous section, the lack of a clear shared definition is a significant source of communication problems. This problem is especially severe when after a long and rigorous debate, it turns out that the communication partners disagreed on an initial definition in the first place. The solution is to [dispute the definition](https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions) first. We can either temporarily and explicitly agree on a definition or invent a new term for the specific concept.
 
 # Software tools
 
