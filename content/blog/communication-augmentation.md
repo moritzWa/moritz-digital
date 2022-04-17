@@ -6,13 +6,16 @@ description: "Most of today's communication is unclear, imprecise, and unscienti
 image: debategraph.png
 ---
 
-Most of today's communication is unclear, imprecise, and unscientific. While building a remote/async-first startup, difficulties with internal company messaging revealed the importance of clear and precise communication. Consequently, I've studied the root causes of this lack of clarity, exploring ideas from software engineering, rationality, and informaiton theory. I found that everyone can take a few simple steps to write more clearly, drastically improving their communication efficiency. More specifically, I found conceptual and software tools that can augment the communication process; There are many ways to structure, and improve a message which leads to more clarity for the writer and thereby increases the parsibility for the reader. 
+Most of today's communication is unclear, imprecise, and unscientific. Building a remote/async-first startup, difficulties with internal company messaging revealed the importance of clear and precise communication. Consequently, I've studied the root causes of this lack of clarity, exploring ideas from software engineering, rationality, and information theory. I found that everyone can take a few simple steps to write more clearly, drastically improving their communication efficiency.
 
-Communication next to sleep and eating is one of the most time-consuming things in our lives. On average, we spend a staggering [50%-80% of our workday communicating](https://academic.oup.com/joc/article-abstract/22/2/142/4560955?redirectedFrom=PDF&login=false) and two-thirds of that time talking. The recent pandemic-driven shift to remote work has increased the need for effective cross-time-zone, asynchronous written communication even more.
+More specifically, I found conceptual and software tools that can augment the communication process; There are many ways to structure and refactor a message, leading to more clarity for the writer and thereby increasing the parsibility for the reader. 
 
-This means that poor communication is a massive cost, source of conflicts, and productivity drain. As shown by the statistic that businesses with approximately 100 employees spend on average [17 hours a week](https://www.quantified.ai/blog/how-much-of-our-workdays-do-we-spend-communicating/) clarifying unclear messages. This productivity drain translates to an annual cost of at least $525,000, or $5,250 per employee per year.
+Communication next to sleep and eating is one of the most time-consuming things in our lives. On average, we spend a staggering [50%-80% of our workday communicating](https://academic.oup.com/joc/article-abstract/22/2/142/4560955?redirectedFrom=PDF&login=false), and two-thirds of that time talking. The recent pandemic-driven shift to remote work has increased the need for effective cross-time-zone, asynchronous written communication.
+
+This universality means that poor communication is a massive cost, source of conflicts, and productivity drain. As shown by the statistic that businesses with approximately 100 employees spend on average [17 hours a week](https://www.quantified.ai/blog/how-much-of-our-workdays-do-we-spend-communicating/) clarifying unclear messages. This productivity drain translates to an annual cost of at least $525,000, or $5,250 per employee per year.
 
 Companies like Amazon, which embraced written communication from the beginning, demonstrate its effectiveness and success. [Influenced by Edward Tufte](https://playtopotential.com/audio/761), a famous statistician known for his work on information design, they replaced PowerPoint presentations with written documents because they come with higher information density and enable a detailed shared context. Increasing the shared context reduces the [inferential distances](https://www.lesswrong.com/tag/inferential-distance) or the number of concepts that one needs to understand a given piece of information.
+
 # Math v. Words
 
 If communication is the means to shared meaning, then what are the implications of having a medium (words) that is imprecise. Comparing language, the primary communication tool of our species, to mathematics helps us understand a crucial tradeoff. 
@@ -31,7 +34,7 @@ The ability to _think_ and the ability to _write_ clearly are inextricably linke
 The reader, on the other hand, can more easily _comprehend_ the writing by reducing their cognitive load and the work needed to extract the propositions. The following strategies (or epistemic language structures) aim to increase clarity, precision, and speed of interactions. 
 ## Continuous text to premises and conclusions 
 
-“Modularity is the human mind's lever against complexity. Breaking down a complex thing into understandable chunks is essential for understanding, perhaps the essence of understanding.”—Bret Victor \
+"Modularity is the human mind's lever against complexity. Breaking down a complex thing into understandable chunks is essential for understanding, perhaps the essence of understanding."—Bret Victor \
  \
 Here are a few possible structuring methods:
 
@@ -49,9 +52,9 @@ Here are a few possible structuring methods:
     * A is true.
 * Consequence: Therefore, B
 
-As an example here is a message using the conditional argument structure that arguest to remove a certain feature as part of an onboarding. 
+As an example, here is a message using the conditional argument structure that argues for removing a particular feature as part of a user onboarding. 
 
-* If we remove complex, low-value features from the onboarding we will reduce user churn, 
+* If we remove complex, low-value features from the onboarding, we will reduce user churn, 
 * Feature X is a complex, low-value feature.
 * Therefore, removing feature X from the onboarding will reduce users' churn.
 
@@ -66,11 +69,11 @@ For example, rather than saying, "I met the investor on Thursday, he had some gr
 
 Don't start by describing a situation or your reasoning and instead lead with the main point. Consider this paragraph: 
 
-"We must think strategically. When we consider X, things get even more complicated. Since the data does not support increasing spending on ads, after careful review, I have concluded that Y”
+"We must think strategically. When we consider X, things get even more complicated. Since the data does not support increasing spending on ads, after careful review, I have concluded that Y."
 
-Here, everything before "Since the data" can be considered as low-value background information, aka the "Since the dawn of time"-beginning which creates a garden-path sentence. 
+Everything in this example before "Since the data" can be considered low-value background information, aka the "Since the dawn of time"-beginning, which creates a garden-path sentence. 
 
-Secondly, in an argument, one should be precise about which aspects one does not agree with i.e. finding the crux of the disagreement.
+Secondly, in an argument, one should be precise about which aspects one disagrees with, i.e., finding the crux of the disagreement.
 ## Eliminate ambiguous and imprecise words
 
 **Jargon**
@@ -83,11 +86,11 @@ All the fish died.
 
 George Orwell lists characteristic phrases for [operators, or verbal false limbs](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/) as _render inoperative_, _militate against_, _prove unacceptable_, _make contact with_, _be subject to_, _give rise to_, _give grounds for_, _have the effect of_, _play a leading part in_, _make itself felt_, _take effect_, _exhibit a tendency to_, _serve the purpose of_.
 
-Instead of being a single word, such as _break_, _stop_, _spoil_, _mend_, _kill_, a verb becomes a phrase made up of a noun or adjective tacked on to a general-purpose verb such as prove, serve, form, play, render.
+Instead of being a single word, such as _break_, _stop_, _spoil_, _mend_, _kill_, a verb becomes a phrase made up of a noun or adjective tacked on to a general-purpose verb, such as prove, serve, form, play, render.
 
 **Uncertainty**
 
-Moreover we sholud make uncerttainty levels explicit. Instead of saying "I'm sure" we can say "I'm ~85% certain" that".
+Moreover, we should make uncertainty levels explicit. Instead of saying "I'm pretty sure," we can say "I'm ~85% certain" that".
 
 **Imprecise nouns**
 
@@ -97,26 +100,27 @@ Moreover we sholud make uncerttainty levels explicit. Instead of saying "I'm sur
 
 - group &lt; horde, clan, team, committee
 
-However, there is a tension between avoiding domain-specific jargon and making precise general nouns. The clear writing optima lies between being accessible, while also being specific and intentioned.
+However, there is a tension between avoiding domain-specific Jargon and making precise general nouns. The clear writing optima lies between being accessible while also being specific and intentioned.
 
-Orwell’s fifth rule can help to find ‌this clear middle ground:
+Orwell's fifth rule can help to find ‌this clear middle ground:
 
-“Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.”
+"Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent."
 
 # Definitions
 
-As presented in the previous section, the lack of a clear shared definition is a significant source of communication problems. This problem is espicially severe, when after a long and rigorous debate it turs out that the communication partners did not agree on an initial definition in the first place. Eliezer Yudkowsky describes this definition vididly in his artile [Disputing Definitions](https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions). In this case we have to strategies. The first one is to temporarily, and explictily agree on a definiton. The second one is to invent a new term for the spicific concept.
+As presented in the previous section, the lack of a clear shared definition is a significant source of communication problems. This problem is especially severe when after a long and rigorous debate, it turns out that the communication partners disagreed on an initial definition in the first place. The solution is [Disputing Definitions](https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions). We have two strategies. The first one is to temporarily and explicitly agree on a definition. The second one is to invent a new term for the specific concept.
 
 # Software tools
 
 There are two parts to a conversation—A sender and a receiver. Both can use computers to improve their communication abilities.
+
 ## Augmented writing
 
-Clear writing is hard to learn because you get close to no immediate feedback, making deliberate practice impossible especially because written communication is an asynchronous process. 
+Clear writing is hard to learn because you get close to no immediate feedback, making deliberate practice impossible, especially because written communication is an asynchronous process. 
 
 Many apps and Chrome extensions are used for spell-checking, but few support clear writing. We can call this testing of text _writing augmentation_ or _test-driven writing_ analogous to test-driven software development. We test it for its potential failure during the writing process and before "deploying" new text into production. These clear writing strategies tests act as unit tests to debug different aspects of language.
 
-Now, a few apps support clear writing improvement suggestions to a limited extent. The best ones I came across are iA Writer, Writer.com and [Wordtune](https://www.wordtune.com/). iA Writer, for example, claims to "carefully review your text for redundancies, clichés and filler words as you type". However, these are still single words or word groups, rather than leveraging an understanding of the entire body of text and its sections, functions, and goals.
+A few apps support clear writing improvement suggestions to a limited extent. The best ones I came across are iA Writer, Writer.com, and [Wordtune](https://www.wordtune.com/). iA Writer, for example, claims to "carefully review your text for redundancies, clichés and filler words as you type". However, these are still single words or word groups rather than leveraging an understanding of the entire body of text and its sections, functions, and goals.
 
 ![](./ia-writer.png)
 
@@ -124,14 +128,14 @@ Now, a few apps support clear writing improvement suggestions to a limited exten
 The recent advances in large language models, such as GPT-3, could test for the above-described methods for clear writing. When I write a convoluted garden-path sentence to my colleague, a chrome extension could remind me to split my argument and conclusions into paragraphs or to lead with my claim.
 ## Parsing
 
-Parsing a text is the first part of processing information after it has been read (I’ve written about [Reading Augmentation](https://moritz.digital/reading/) elsewhere before). Our ability to comprehend written information is essentially an advanced model for Natural Language Understanding (NLU). An NLU model parses sentences into grammatical parts, which it parses into words, which are parsed into subject-predicate and predicate-object relationships to extract their meaning. 
+Parsing a text is the first part of processing information after it has been read (I've written about [Reading Augmentation](https://moritz.digital/reading/) elsewhere before). Our ability to comprehend written information is essentially an advanced model for Natural Language Understanding (NLU). An NLU model parses sentences into grammatical parts, which it parses into words, which are parsed into subject-predicate and predicate-object relationships to extract their meaning. 
 
 ![](./nlu.png)
 
 
 Close to none of the current communications and writing are augmenting this parsing process to enable easier processing and extraction of information. Two examples of software that is aiding this process:
 
-**Concept Descriptor Framework**: The CD-Framework of [RemNote](https://remnote.com) helps the user to structure concepts and their descriptors in a semantic network graph, i.e., how they are stored in the brain. (Full disclosuer I'm working on this tool and company).
+**Concept Descriptor Framework**: The CD-Framework of [RemNote](https://remnote.com) helps the user to structure concepts and their descriptors in a semantic network graph, i.e., how they are stored in the brain. (Full disclosure, I'm working on this tool and company).
 
 **Debate Tools**: These tools break down argumentation in logical network graphs. They enable clear and rational argumentation, allowing us to visualize its logical structure omitting all the rhetorical trickery of a lively public debate. Unfortunately, these tools remain highly underutilized.
 
@@ -139,10 +143,10 @@ Close to none of the current communications and writing are augmenting this pars
 
 # Conclusion
 
-Why and how should we communicate more clearly? Clear communication offers extreme productivity gains by encouraging clear thinking and making messages easier to parse. Good communication reduces the inferential distance that doesn’t contain garden path sentences.
+Why and how should we communicate more clearly? Clear communication offers extreme productivity gains by encouraging clear thinking and making messages easier to parse. Good communication reduces the inferential distance that doesn't contain garden path sentences.
 
-To unlock the gains of efficient communication, we have to educate colleagues and team members about the strategies for clear communication such as structuring our writing, using clear objectives and claims, and eliminating ambiguous and imprecise language. Furthermore, we should build clear communication into our personal and company cultures.
+To unlock the gains of efficient communication, we have to educate colleagues and team members about the strategies for clear communication, such as structuring our writing, using clear objectives and claims, and eliminating ambiguous and imprecise language. Furthermore, we should build clear communication into our personal and company cultures.
 
-Lastly, written communication and text parsing i.e. reading has a huge potential to be [augmented by software](https://moritz.digital/cas/).
+Lastly, written communication and text parsing, i.e., reading, has a vast potential to be [augmented by software](https://moritz.digital/cas/).
 
-Thank you to David Dohan, John Knowles, Jonathan Xu for reading drafts of this post.
+Thank you to David Dohan, John Knowles, and Jonathan Xu for reading drafts of this post.
