@@ -34,8 +34,8 @@ The ability to _think_ and the ability to _write_ clearly are inextricably linke
 The reader, on the other hand, can more easily _comprehend_ the writing by reducing their cognitive load and the work needed to extract the propositions. The following strategies (or epistemic language structures) aim to increase clarity, precision, and speed of interactions. 
 ## Continuous text to premises and conclusions 
 
-"Modularity is the human mind's lever against complexity. Breaking down a complex thing into understandable chunks is essential for understanding, perhaps the essence of understanding."—Bret Victor \
- \
+"Modularity is the human mind's lever against complexity. Breaking down a complex thing into understandable chunks is essential for understanding, perhaps the essence of understanding."—Bret Victor
+
 Here are a few possible structuring methods:
 
 **PREP**
@@ -148,5 +148,3 @@ Why and how should we communicate more clearly? Clear communication offers extre
 To unlock the gains of efficient communication, we have to educate colleagues and team members about the strategies for clear communication, such as structuring our writing, using clear objectives and claims, and eliminating ambiguous and imprecise language. Furthermore, we should build clear communication into our personal and company cultures.
 
 Lastly, written communication and text parsing, i.e., reading, has a vast potential to be [augmented by software](https://moritz.digital/cas/).
-
-Thank you to David Dohan, John Knowles, and Jonathan Xu for reading drafts of this post.
