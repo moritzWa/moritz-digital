@@ -44,7 +44,8 @@ const Bio = () => {
       />
       {author?.name && (
         <div>
-          <p>I'm building <a href="https://remnote.com">RemNote.com</a> (<a href="https://www.generalcatalyst.com/gcamplified/why-general-catalyst-invested-in-remnote/">funded by General Catalyst</a>). I grew up in Germany, previously studied Software Engineering at <a href="https://code.berlin/en/">CODE</a>, went through <a href="https://www.zfellows.com/">ZFellows</a> and <a href="http://sandbox.mit.edu/">MIT Sandbox</a>. I strive to accelerate scientific and technological progress by building a new evolution of tools and systems for knowledge creation. Find me on <a href="https://github.com/moritzWa">GitHub</a>, <a href="https://twitter.com/moritzW42">Twitter</a>, <a href="https://linkedin.com/in/moritzw">LinkedIn</a>, <a href="https://www.producthunt.com/@moritzwallawitsch">Product Hunt</a>, or <a href="https://goodreads.com/moritzw">Goodreads</a>.</p>
+          <p>I'm building <a href="https://remnote.com">RemNote.com</a> (<a href="https://www.generalcatalyst.com/gcamplified/why-general-catalyst-invested-in-remnote/">funded by General Catalyst</a>). I grew up in Germany, previously studied Software Engineering at <a href="https://code.berlin/en/">CODE</a>, went through <a href="https://www.zfellows.com/">ZFellows</a> and <a href="http://sandbox.mit.edu/">MIT Sandbox</a>. I strive to accelerate scientific and technological progress by building a new evolution of tools and systems for knowledge creation. Find me on <a href="https://github.com/moritzWa">GitHub</a>, <a href="https://twitter.com/moritzW42">Twitter</a>, <a href="https://linkedin.com/in/moritzw">LinkedIn</a>, or <a href="https://goodreads.com/moritzw">Goodreads</a>.</p>
+          <p>I'm in the process of moving my blog <a href="https://scalingknowledge.substack.com/">here</a>.</p>
         </div>
       )}
     </div>
