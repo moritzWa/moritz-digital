@@ -20,8 +20,8 @@ const Layout = ({ location, title, children }) => {
     )
   }
 
-
-  window.location.href = `https://scalingknowledge.substack.com/${window.location.pathname}`;
+  const isBrowser = () => typeof window !== "undefined"
+  isBrowser() && window.location.replace( `https://scalingknowledge.substack.com/${window.location.pathname}`)
 
   return null
 }
